@@ -1,3 +1,8 @@
+## Visualization Example
+<img width="3600" height="2700" alt="AOD contour map" src="https://github.com/user-attachments/assets/d3517b65-2d9d-434f-ad06-419efd6def3e" />
+
+
+
 # Geospatial Contour and Heat Map Visualization
 
 This project implements a Python-based geospatial visualization system to generate contour maps and heat maps from spatial and environmental datasets.
